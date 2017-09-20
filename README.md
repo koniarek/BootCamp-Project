@@ -1,1 +1,3 @@
-# BootCamp Project
+# YelpCamp
+
+### Refactored by Ian Schoonover
